@@ -1,0 +1,9 @@
+LETTERS
+6 7 2
+a b 1
+b c 1
+c d 1
+d f 1
+d e 3
+e d 1
+e f 10
